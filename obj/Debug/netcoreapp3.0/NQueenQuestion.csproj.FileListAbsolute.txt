@@ -1,0 +1,11 @@
+T:\workspace\NQueenQuestion\obj\Debug\netcoreapp3.0\NQueenQuestion.csprojAssemblyReference.cache
+T:\workspace\NQueenQuestion\obj\Debug\netcoreapp3.0\NQueenQuestion.AssemblyInfoInputs.cache
+T:\workspace\NQueenQuestion\obj\Debug\netcoreapp3.0\NQueenQuestion.AssemblyInfo.cs
+T:\workspace\NQueenQuestion\bin\Debug\netcoreapp3.0\NQueenQuestion.exe
+T:\workspace\NQueenQuestion\bin\Debug\netcoreapp3.0\NQueenQuestion.deps.json
+T:\workspace\NQueenQuestion\bin\Debug\netcoreapp3.0\NQueenQuestion.runtimeconfig.json
+T:\workspace\NQueenQuestion\bin\Debug\netcoreapp3.0\NQueenQuestion.runtimeconfig.dev.json
+T:\workspace\NQueenQuestion\bin\Debug\netcoreapp3.0\NQueenQuestion.dll
+T:\workspace\NQueenQuestion\bin\Debug\netcoreapp3.0\NQueenQuestion.pdb
+T:\workspace\NQueenQuestion\obj\Debug\netcoreapp3.0\NQueenQuestion.dll
+T:\workspace\NQueenQuestion\obj\Debug\netcoreapp3.0\NQueenQuestion.pdb
