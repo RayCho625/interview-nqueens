@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\workspace\\NQueenQuestion\\NQueenQuestion.csproj",
+      "projectUniqueName": "T:\\workspace\\NQueens\\interview-nqueens\\NQueenQuestion.csproj",
       "projectName": "NQueenQuestion",
-      "projectPath": "T:\\workspace\\NQueenQuestion\\NQueenQuestion.csproj",
+      "projectPath": "T:\\workspace\\NQueens\\interview-nqueens\\NQueenQuestion.csproj",
       "packagesPath": "C:\\Users\\Ray\\.nuget\\packages\\",
-      "outputPath": "T:\\workspace\\NQueenQuestion\\obj\\",
+      "outputPath": "T:\\workspace\\NQueens\\interview-nqueens\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ray\\AppData\\Roaming\\NuGet\\NuGet.Config",
